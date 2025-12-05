@@ -32,13 +32,13 @@
 
     if-eqz v1, :cond_33
 
-    const-wide v1, -0xe03be37d0521L
+    const-wide v1, -0x2346c885e6b8L
 
     invoke-static {v1, v2}, Lcom/android/internal/util/kaorios/Ks23qmqAooOtt2x0xRh6I;->K7b6cynAykO75yzw1Ri5kI(J)Ljava/lang/String;
 
     move-result-object v1
 
-    const-wide v2, -0xe009e37d0521L
+    const-wide v2, -0x2374c885e6b8L
 
     invoke-static {v2, v3}, Lcom/android/internal/util/kaorios/Ks23qmqAooOtt2x0xRh6I;->K7b6cynAykO75yzw1Ri5kI(J)Ljava/lang/String;
 
